@@ -12,6 +12,7 @@ My Kakoune configuration
 |`,y`     | yank to sys clipboard         | normal|
 |`,v`     | Split tmux window vertically  | normal|
 |`,h`     | Split tmux window horizontally| normal|
+|`,s`     | Toggle spell checking         | normal|
 |`<c-v>`  | Esc from insert mode          | insert|
 |`<c-s>`  | Save from insert mode         | insert|
 |`<tab>`  | go through suggestions        |       |

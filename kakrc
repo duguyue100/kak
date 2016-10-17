@@ -21,6 +21,7 @@ map global user p '!xclip -o<ret>'
 map global user y '<a-|>xclip -i<ret>; :echo -color Information "copied selection to X11 clipboard"<ret>'
 map global user v '<esc>:tmux-new-vertical<ret>'
 map global user h '<esc>:tmux-new-horizontal<ret>'
+map global user s '<esc>:spell<ret>'
 map global insert <c-v> '<esc>'
 map global insert <c-s> '<esc>:w<ret>i'
 map global insert <tab> <c-n>
