@@ -1,0 +1,2 @@
+# kak
+My Kakoune configuration
